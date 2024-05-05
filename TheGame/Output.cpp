@@ -6,9 +6,10 @@ Output::Output()
 	colors = 0;
 }
 
-void Output::talk(string text, int n = 0)
+void Output::talk(string text, int n)
 {
 	//這是一個能輸出顏色的函式，n用來決定輸出的顏色。
+	//備註:0預設,1紅色,2綠色,3深綠,4黃色,5紫色。
 	this->text = text;
 	switch (n)
 	{
@@ -33,7 +34,7 @@ void Output::talk(string text, int n = 0)
 	}
 }
 
-void Output::PauseSomeTimes(int times = 1)
+void Output::PauseSomeTimes(int times)
 {
 	//用來暫停系統時間的函式
 	std::this_thread::sleep_for(std::chrono::seconds(times));
