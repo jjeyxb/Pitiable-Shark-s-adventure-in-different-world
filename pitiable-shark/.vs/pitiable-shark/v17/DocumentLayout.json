@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|solutionrelative:pitiable-shark\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\main.cpp",
+              "RelativeDocumentMoniker": "pitiable-shark\\main.cpp",
+              "ToolTip": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\main.cpp",
+              "RelativeToolTip": "pitiable-shark\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-05T13:09:45.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
