@@ -1,2 +1,2 @@
-# Pitable-shark-s-adventure-in-different-world
+# Pitiable-shark-s-adventure-in-different-world
 Object-oriented programming's class
