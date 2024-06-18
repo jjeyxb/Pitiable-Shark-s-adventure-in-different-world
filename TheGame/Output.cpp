@@ -2,34 +2,44 @@
 
 Output::Output()
 {
-	text = " ";
-	colors = 0;
+	this->text = " ";
+	this->colors = 0;
 }
 
-void Output::talk(string text, int n)
+void Output::setColors(int colors)
+{
+	this->colors = colors;
+}
+
+int Output::getColors() const
+{
+	return this->colors;
+}
+
+void Output::talk(string text)
 {
 	//這是一個能輸出顏色的函式，n用來決定輸出的顏色。
 	//備註:0預設,1紅色,2綠色,3深綠,4黃色,5紫色。
 	this->text = text;
-	switch (n)
+	switch (this->getColors())
 	{
 	case 0:
-		cout <<RESET<< text << endl;
+		cout <<RESET<< text;
 		break;
 	case 1:
-		cout << RED << text << RESET << endl;
+		cout << RED << text << RESET;
 		break;
 	case 2:
-		cout << GREEN << text << RESET << endl;
+		cout << GREEN << text << RESET;
 		break;
 	case 3:
-		cout << DEEPGREEN << text << RESET << endl;
+		cout << DEEPGREEN << text << RESET;
 		break;
 	case 4:
-		cout << YELLOW << text << RESET << endl;
+		cout << YELLOW << text << RESET;
 		break;
 	case 5:
-		cout << PURPLE << text << RESET << endl;
+		cout << PURPLE << text << RESET;
 		break;
 	}
 }

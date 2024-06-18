@@ -79,15 +79,30 @@ void Battle::fight()
 			this->showInFo();
 		}
 		else if (options >= 4) {
-			cout << this->getMonster()->getName() << "直接把你給斬首了" << endl;
-			this->getMainRole()->setHealth(0);	
-			talk.PauseSomeTimes();
+			if (this->getMonster()->getDamage() == 888) {
+				cout << "正義哥看著淚哭流涕的你，讓他會想到小時候的自己，一怒之下血量歸零。" << endl;
+				talk.PauseSomeTimes();
+				this->getMonster()->setHealth(0);
+				if (this->mainRole->getHealth() <= 0 || this->monster->getHealth() <= 0) {
+					this->endBattle = 1;
+					cout << "戰鬥結束" << endl;
+					cout << "--------------------" << endl;
+					break;
+				}
+			}
+			else {
+				cout << this->getMonster()->getName() << "直接把你給斬首了" << endl;
+				this->getMainRole()->setHealth(0);	
+				talk.PauseSomeTimes();
+			}
+			
 		}
 		
 		
 		if (this->mainRole->getHealth() <= 0 || this->monster->getHealth() <= 0) {
 			this->endBattle = 1;
 			cout << "戰鬥結束" << endl;
+			cout << "--------------------" << endl;
 			break;
 		}
 		if (options < 3) {

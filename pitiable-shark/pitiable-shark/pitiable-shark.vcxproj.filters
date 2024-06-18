@@ -64,5 +64,7 @@
     <Text Include="test.txt" />
     <Text Include="opening.txt" />
     <Text Include="gameover.txt" />
+    <Text Include="story1.txt" />
+    <Text Include="end.txt" />
   </ItemGroup>
 </Project>

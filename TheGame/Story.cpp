@@ -30,8 +30,10 @@ void Story::outPutFile(string fileName)
 	
 	while (getline(*file, line)) {
 		if (!line.empty() && line[0] == this->getCheck()) {
-			talk->talk(line.substr(1),0);
-			talk->PauseSomeTimes();
+			this->talk->talk(line.substr(1));
+			cout << endl;
+			if(this->getCheck()!= '$') //如果檢查符號是$將不會暫停時間，時間就是金錢，寶貝。
+			this->talk->PauseSomeTimes();
 		}
 	}
 
