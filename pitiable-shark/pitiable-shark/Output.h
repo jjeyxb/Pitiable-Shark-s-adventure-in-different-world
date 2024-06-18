@@ -18,7 +18,9 @@ private:
 	int colors;
 public:
 	Output();
-	void talk(string text, int n = 0);
+	void setColors(int colors);
+	int getColors() const;
+	void talk(string text);
 	void PauseSomeTimes(int times = 1);
 };
 

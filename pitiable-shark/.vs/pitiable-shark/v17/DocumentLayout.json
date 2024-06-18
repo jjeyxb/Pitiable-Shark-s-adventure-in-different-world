@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Battle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|solutionrelative:pitiable-shark\\Battle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|solutionrelative:pitiable-shark\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Role.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|solutionrelative:pitiable-shark\\Role.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Output.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|solutionrelative:pitiable-shark\\Output.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Role.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|solutionrelative:pitiable-shark\\Role.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|solutionrelative:pitiable-shark\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|solutionrelative:pitiable-shark\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Output.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|solutionrelative:pitiable-shark\\Output.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\opening.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|solutionrelative:pitiable-shark\\opening.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|solutionrelative:pitiable-shark\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\gameover.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|solutionrelative:pitiable-shark\\gameover.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|solutionrelative:pitiable-shark\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -11,28 +55,12 @@
       "RelativeMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|solutionrelative:pitiable-shark\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Role.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|solutionrelative:pitiable-shark\\Role.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Battle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|solutionrelative:pitiable-shark\\Battle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Story.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|solutionrelative:pitiable-shark\\Story.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Output.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|solutionrelative:pitiable-shark\\Output.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|solutionrelative:pitiable-shark\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|solutionrelative:pitiable-shark\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Output.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|solutionrelative:pitiable-shark\\Output.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CED8C4F1-952B-45F4-8CD9-C04CDD5A3EB9}|pitiable-shark\\pitiable-shark.vcxproj|C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Story.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -50,88 +78,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Character.cpp",
-              "DocumentMoniker": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Character.cpp",
-              "RelativeDocumentMoniker": "pitiable-shark\\Character.cpp",
-              "ToolTip": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Character.cpp",
-              "RelativeToolTip": "pitiable-shark\\Character.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Game.cpp",
+              "RelativeDocumentMoniker": "pitiable-shark\\Game.cpp",
+              "ToolTip": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Game.cpp",
+              "RelativeToolTip": "pitiable-shark\\Game.cpp",
+              "ViewState": "AQIAACIAAAAAAAAAAAAUwCkAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-12T14:39:26.25Z",
+              "WhenOpened": "2024-06-18T10:54:51.786Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "gameover.txt",
+              "DocumentMoniker": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\gameover.txt",
+              "RelativeDocumentMoniker": "pitiable-shark\\gameover.txt",
+              "ToolTip": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\gameover.txt",
+              "RelativeToolTip": "pitiable-shark\\gameover.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-18T12:40:41.428Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Character.h",
-              "DocumentMoniker": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Character.h",
-              "RelativeDocumentMoniker": "pitiable-shark\\Character.h",
-              "ToolTip": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Character.h",
-              "RelativeToolTip": "pitiable-shark\\Character.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-12T14:33:04.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Role.h",
-              "DocumentMoniker": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Role.h",
-              "RelativeDocumentMoniker": "pitiable-shark\\Role.h",
-              "ToolTip": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Role.h",
-              "RelativeToolTip": "pitiable-shark\\Role.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-12T14:32:23.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "test.txt",
-              "DocumentMoniker": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\test.txt",
-              "RelativeDocumentMoniker": "pitiable-shark\\test.txt",
-              "ToolTip": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\test.txt",
-              "RelativeToolTip": "pitiable-shark\\test.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-05-05T14:41:16.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ClassDiagram.cd",
-              "DocumentMoniker": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\ClassDiagram.cd",
-              "RelativeDocumentMoniker": "pitiable-shark\\ClassDiagram.cd",
-              "ToolTip": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\ClassDiagram.cd",
-              "RelativeToolTip": "pitiable-shark\\ClassDiagram.cd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2024-05-05T14:00:35.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Story.cpp",
-              "DocumentMoniker": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Story.cpp",
-              "RelativeDocumentMoniker": "pitiable-shark\\Story.cpp",
-              "ToolTip": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Story.cpp",
-              "RelativeToolTip": "pitiable-shark\\Story.cpp",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAcAAAA",
+              "Title": "Battle.cpp",
+              "DocumentMoniker": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Battle.cpp",
+              "RelativeDocumentMoniker": "pitiable-shark\\Battle.cpp",
+              "ToolTip": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Battle.cpp",
+              "RelativeToolTip": "pitiable-shark\\Battle.cpp",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAmwFkAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-05T13:52:17.226Z",
+              "WhenOpened": "2024-06-18T11:56:09.244Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
+              "Title": "Battle.h",
+              "DocumentMoniker": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Battle.h",
+              "RelativeDocumentMoniker": "pitiable-shark\\Battle.h",
+              "ToolTip": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Battle.h",
+              "RelativeToolTip": "pitiable-shark\\Battle.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-18T11:34:27.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Story.h",
               "DocumentMoniker": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Story.h",
               "RelativeDocumentMoniker": "pitiable-shark\\Story.h",
@@ -139,33 +143,19 @@
               "RelativeToolTip": "pitiable-shark\\Story.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-05T13:38:41.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T13:38:41.127Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Output.cpp",
               "DocumentMoniker": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Output.cpp",
               "RelativeDocumentMoniker": "pitiable-shark\\Output.cpp",
               "ToolTip": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Output.cpp",
               "RelativeToolTip": "pitiable-shark\\Output.cpp",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAIAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-05T13:22:18.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Output.h",
-              "DocumentMoniker": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Output.h",
-              "RelativeDocumentMoniker": "pitiable-shark\\Output.h",
-              "ToolTip": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Output.h",
-              "RelativeToolTip": "pitiable-shark\\Output.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-05T13:22:14.189Z",
               "EditorCaption": ""
             },
             {
@@ -176,9 +166,137 @@
               "RelativeDocumentMoniker": "pitiable-shark\\main.cpp",
               "ToolTip": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\main.cpp",
               "RelativeToolTip": "pitiable-shark\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-05T13:09:45.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Character.h",
+              "DocumentMoniker": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Character.h",
+              "RelativeDocumentMoniker": "pitiable-shark\\Character.h",
+              "ToolTip": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Character.h",
+              "RelativeToolTip": "pitiable-shark\\Character.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-12T14:33:04.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Game.h",
+              "RelativeDocumentMoniker": "pitiable-shark\\Game.h",
+              "ToolTip": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Game.h",
+              "RelativeToolTip": "pitiable-shark\\Game.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-18T10:53:35.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClassDiagram.cd",
+              "DocumentMoniker": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\ClassDiagram.cd",
+              "RelativeDocumentMoniker": "pitiable-shark\\ClassDiagram.cd",
+              "ToolTip": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\ClassDiagram.cd",
+              "RelativeToolTip": "pitiable-shark\\ClassDiagram.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-05-05T14:00:35.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Role.cpp",
+              "DocumentMoniker": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Role.cpp",
+              "RelativeDocumentMoniker": "pitiable-shark\\Role.cpp",
+              "ToolTip": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Role.cpp",
+              "RelativeToolTip": "pitiable-shark\\Role.cpp",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAnwA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-15T11:21:15.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Output.h",
+              "DocumentMoniker": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Output.h",
+              "RelativeDocumentMoniker": "pitiable-shark\\Output.h",
+              "ToolTip": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Output.h",
+              "RelativeToolTip": "pitiable-shark\\Output.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-05T13:22:14.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Role.h",
+              "DocumentMoniker": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Role.h",
+              "RelativeDocumentMoniker": "pitiable-shark\\Role.h",
+              "ToolTip": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Role.h",
+              "RelativeToolTip": "pitiable-shark\\Role.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-12T14:32:23.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "test.txt",
+              "DocumentMoniker": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\test.txt",
+              "RelativeDocumentMoniker": "pitiable-shark\\test.txt",
+              "ToolTip": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\test.txt",
+              "RelativeToolTip": "pitiable-shark\\test.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-05T14:41:16.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Story.cpp",
+              "DocumentMoniker": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Story.cpp",
+              "RelativeDocumentMoniker": "pitiable-shark\\Story.cpp",
+              "ToolTip": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Story.cpp",
+              "RelativeToolTip": "pitiable-shark\\Story.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-05T13:52:17.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Character.cpp",
+              "DocumentMoniker": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Character.cpp",
+              "RelativeDocumentMoniker": "pitiable-shark\\Character.cpp",
+              "ToolTip": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\Character.cpp",
+              "RelativeToolTip": "pitiable-shark\\Character.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-12T14:39:26.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "opening.txt",
+              "DocumentMoniker": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\opening.txt",
+              "RelativeDocumentMoniker": "pitiable-shark\\opening.txt",
+              "ToolTip": "C:\\Users\\ccppa\\source\\repos\\jjeyxb\\Pitiable-Shark-s-adventure-in-different-world\\Pitiable-Shark-s-adventure-in-different-world\\pitiable-shark\\pitiable-shark\\opening.txt",
+              "RelativeToolTip": "pitiable-shark\\opening.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-18T11:00:26.817Z",
               "EditorCaption": ""
             }
           ]

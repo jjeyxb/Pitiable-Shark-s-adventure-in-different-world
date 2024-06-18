@@ -30,6 +30,12 @@
     <ClCompile Include="Character.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="Battle.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Output.h">
@@ -44,11 +50,19 @@
     <ClInclude Include="Character.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Battle.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="ClassDiagram.cd" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="test.txt" />
+    <Text Include="opening.txt" />
+    <Text Include="gameover.txt" />
   </ItemGroup>
 </Project>
